@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "title":"Intro to Svelte",
+        "thumbnail_url":"https://bairesdev.mo.cloudinary.net/blog/2022/04/Svelte-3.jpg",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus diam lorem, hendrerit eget auctor ut, sodales mattis urna.",
+        "likes":200,
+        "views":4000,
+        "category":"Web programming"
+    },
+    {
+        "id":2,
+        "title":"Javascript Framework",
+        "thumbnail_url":"https://inexture.com/wp-content/uploads/2023/04/Top-7-JavaScript-Frameworks-for-Web-App-Development-1100-x-600.png",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus diam lorem, hendrerit eget auctor ut, sodales mattis urna.",
+        "likes":100,
+        "views":3000,
+        "category":"Web programming"
+    },
+    {
+        "id":3,
+        "title":"States in Svelte",
+        "thumbnail_url":"https://i.ytimg.com/vi/Zxj1eSaiWtI/maxresdefault.jpg",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus diam lorem, hendrerit eget auctor ut, sodales mattis urna.",
+        "likes":400,
+        "views":6000,
+        "category":"Web programming"
+    }
+]
